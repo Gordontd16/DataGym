@@ -1,7 +1,6 @@
 # DataGym Exercise 
-This is an exercise I worked on as part of the General Assembly Data Science Course 
 
-Exercise Background:
+Exercise Brief:
 
 DataGym™ is a commercial gym chain with points of presence in multiple UK cities.
 
